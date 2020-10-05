@@ -11,3 +11,5 @@ a short python script to get a word in terminal and download its pronunciation f
 5. Finally you can call it in the terminal in this form:  *pronunciation.py your_word*
 
 The pronunciation of the word can be found as an mp3 file in the directory you have set in the script.
+
+I personally use this script to create [AnkiDroid](https://apps.ankiweb.net/) flash cards that have associated sound files and I am planing to add this feature to AnkiDroid.
