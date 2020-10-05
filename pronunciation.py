@@ -22,5 +22,5 @@ except:
   print('{} does not have a pronounciation file.'.format(word_id))
 else:
     print(word_url)
-    filename = wget.download(word_url, '/home/bahman/Desktop/Miscellaneous University words/' + word_url.split('/')[-1])
+    filename = wget.download(word_url, '/path to the directory you want the pronounciation file to be saved/' + word_url.split('/')[-1])
     print("\nThe name of downloaded file is ",filename, '\n', )
